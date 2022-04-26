@@ -1,0 +1,24 @@
+.container{
+  width: 100%;
+  margin: 0;
+}
+.hero img{
+  width: 100%;
+  border-radius: 0 ;
+}
+
+aside.left{
+  text-align: center;
+  float: inherit;
+
+}
+
+aside.right{
+  text-align: center;
+  float: inherit;
+}
+
+.contact {
+  text-align: center;
+  padding: 20px;
+
